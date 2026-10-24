@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "asd-ste100": {
+      "source": "danyuchn/asd-ste100-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "05420c66a096e5d9a89eba60ebf8757ab7ae9fd6d1bc5219a06f15a5e600dcc9"
+    }
+  }
+}
